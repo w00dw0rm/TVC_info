@@ -33,6 +33,13 @@ The video below shows the environment:
 https://github.com/w00dw0rm/TVC_info/assets/47065870/150656a7-40cd-4d47-90ed-e0993c0dbe41
 
 
+
+
+
+https://github.com/w00dw0rm/TVC_info/assets/47065870/efd93993-14b1-4f49-bf7f-8082b9f839ed
+
+
+
 * The scoring terms:
 
 For assistance in understanding what each term means, refer to the below:
