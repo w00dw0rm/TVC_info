@@ -14,13 +14,21 @@ The storyboards will be presented to you in a random order, and you are to rate 
 Only 1 script (a conversation between 2 people) was used throughout the entire study, which is noted here for reference:
 
 "MAN: Well, he knows a little about me."
+
 "WOMAN: You didn't tell him your name, did ya?"
+
 "MAN: I told him my first name, and where I'm from."
+
 "There is a long silence and a blank look from WOMAN, then she SCREAMS:"
+
 "WOMAN: Why!"
+
 "MAN: I told him where I was from a few days ago.  It was just a casual conversation."
+
 "WOMAN: And what was tellin him your name when you weren't supposed to?"
+
 "MAN: He asked."
+
 "WOMAN looks at MAN with contempt "
 
 
