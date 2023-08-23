@@ -48,11 +48,11 @@ https://github.com/w00dw0rm/TVC_info/assets/47065870/efd93993-14b1-4f49-bf7f-808
 
 For assistance in understanding what each term means, refer to the below:
 
-** Visually pleasing: ** Do the images have novel  framing, convey beauty, or are different from 'the norm'?
+**Visually pleasing:** Do the images have novel  framing, convey beauty, or are different from 'the norm'?
 
-** Readability: ** Do the images convey the story appropriately? Would someone understand the story without seeing the script?
+**Readability:**  Do the images convey the story appropriately? Would someone understand the story without seeing the script?
  
-** Professionalism: ** Are traditional filming rules upheld (e.g. 180 degree rule, minimum angle violation etc.)? Given the limited control the users had (camera position only), are the framing and composition of images of a professional manner?
+**Professionalism:**  Are traditional filming rules upheld (e.g. 180 degree rule, minimum angle violation etc.)? Given the limited control the users had (camera position only), are the framing and composition of images of a professional manner?
 
 
 
