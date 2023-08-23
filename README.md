@@ -32,3 +32,17 @@ The virtual 3D environment used was a fictional location with indoor spaces, out
 The video below shows the environment:
 https://github.com/w00dw0rm/TVC_info/assets/47065870/150656a7-40cd-4d47-90ed-e0993c0dbe41
 
+
+* The scoring terms:
+
+For assistance in understanding what each term means, refer to the below:
+
+Visually pleasing: Do the images have novel  framing, convey beauty, or are different from 'the norm'?
+
+Readability: Do the images convey the story appropriately? Would someone understand the story without seeing the script?
+ 
+Professionalism: Are traditional filming rules upheld (e.g. 180 degree rule, minimum angle violation etc.)? Given the limited control the users had (camera position only), are the framing and composition of images of a professional manner?
+
+
+
+
