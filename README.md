@@ -34,7 +34,7 @@ Only 1 script (a conversation between 2 people) was used throughout the entire s
 
 * The 3D environment
 
-The virtual 3D environment used was a fictional location with indoor spaces, outdoor spaces, and 4 characters. The user had control of the camera position only, with no lens / aperture / lighting / object control, and could focus on any of the characters in the scene. A minority of users may have moved the characters if they felt the desire to do so, in order to achieve particular framing. The scene was static, with no moving objects. THe user could not control focal distance, or the render quality of the scene. As such, some images may appear pixelated, which should not be marked negatively. 
+The virtual 3D environment used was a fictional location with indoor spaces, outdoor spaces, and 4 characters. The user had control of the camera position only, with no lens / aperture / lighting / object control, and could focus on any of the characters in the scene. A minority of users may have moved the characters if they felt the desire to do so, in order to achieve particular framing. The scene was static, with no moving objects. The user could not control focal distance, or the render quality of the scene. As such, some images may appear pixelated, which should not be marked negatively. The facial expressions on the characters within the scene are fixed, and so disparities between facial expression and script emotion need to be ignored. 
 
 
 The video below shows the environment:
